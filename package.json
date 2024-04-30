@@ -1,0 +1,26 @@
+{
+  "name": "readexcel",
+  "version": "1.0.0",
+  "description": "node.js to read excel files",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LucyMoore/ReadExcel.git"
+  },
+  "keywords": [
+    "excel"
+  ],
+  "author": "lucymoore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucyMoore/ReadExcel/issues"
+  },
+  "homepage": "https://github.com/LucyMoore/ReadExcel#readme",
+  "dependencies": {
+    "read-excel-file": "^5.7.1"
+  }
+}
